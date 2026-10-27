@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bootup.vercel.app/sitemap.xml
